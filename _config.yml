@@ -299,7 +299,7 @@ gitalk:
   repo:
   owner:
   admin:
-  language: en # en, zh-CN, zh-TW, es-ES, fr, ru
+  language: zh-CN # en, zh-CN, zh-TW, es-ES, fr, ru
   perPage: 10 # Pagination size, with maximum 100.
   distractionFreeMode: false # Facebook-like distraction free mode.
   pagerDirection: last # Comment sorting direction, available values are last and first.
@@ -769,7 +769,7 @@ fancybox: true
 mermaid:
   enable: false
   # built-in themes: default/forest/dark/neutral
-  theme: default
+  theme: butterfly
 
 # Note (Bootstrap Callout)
 note:

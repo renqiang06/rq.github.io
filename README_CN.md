@@ -1,53 +1,8 @@
-# hexo-theme-butterfly
-
 ![master version](https://img.shields.io/github/package-json/v/jerryc127/hexo-theme-butterfly/master?color=%231ab1ad&label=master)
 ![master version](https://img.shields.io/github/package-json/v/jerryc127/hexo-theme-butterfly/dev?label=dev)
 ![https://img.shields.io/npm/v/hexo-theme-butterfly?color=%09%23bf00ff](https://img.shields.io/npm/v/hexo-theme-butterfly?color=%09%23bf00ff)
 ![hexo version](https://img.shields.io/badge/hexo-5.0+-0e83c)
 ![license](https://img.shields.io/github/license/jerryc127/hexo-theme-butterfly?color=FF5531)
-
-預覽: 👍 [Butterfly](https://butterfly.js.org/)  ||  🤞 [MYW](https://immyw.com/)
-
-文檔: 📖 [Butterfly Docs](https://butterfly.js.org/posts/21cfbf15/)
-
-一款基於[hexo-theme-melody](https://github.com/Molunerfinn/hexo-theme-melody)修改的主題
-
-## 安裝
-
-### Git 安裝
-
-> 本倉庫同時上傳到 [Gitee](https://gitee.com/iamjerryw/hexo-theme-butterfly)，如果你訪問 Github 緩慢，可從 Gitee 中下載。
-
-在博客根目錄裡安裝穩定版【推薦】
-
-```powershell
-git clone -b master https://github.com/jerryc127/hexo-theme-butterfly.git themes/butterfly
-```
-
-如果想要安裝比較新的dev分支，可以
-
-```powershell
-git clone -b dev https://github.com/jerryc127/hexo-theme-butterfly.git themes/butterfly
-```
-
-### npm 安裝
-
-> 此方法只支持Hexo 5.0.0以上版本
-
-在博客根目錄裡
-
-```powershell
-npm i hexo-theme-butterfly
-```
-
-## 應用主題
-修改hexo配置文件`_config.yml`，把主題改為`Butterfly`
-
-```
-theme: butterfly
-```
-
->如果你沒有pug以及stylus的渲染器，請下載安裝： npm install hexo-renderer-pug hexo-renderer-stylus --save
 
 ## 特色
 
